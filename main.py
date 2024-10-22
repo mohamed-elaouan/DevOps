@@ -1,1 +1,1 @@
-print 'hello world from DevOps Topic , test 2'
+print ('hello world from DevOps Topic , test 2')
